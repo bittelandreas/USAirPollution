@@ -6,6 +6,6 @@ The following documents can be found here:
 1. Paper
 2. Raw data used in the code
 3. Code with RNN LSTM Model & Multiple Linear Regression
-4. Code used to generate some graphics including the graphics
+4. Generated graphics and illustrations
 
 This is based on the course of Dr. Bledar Fazlija
